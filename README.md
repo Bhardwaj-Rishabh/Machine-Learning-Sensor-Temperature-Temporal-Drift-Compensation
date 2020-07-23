@@ -13,3 +13,13 @@ Code for paper:
 }
 
 [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0026269219307207)
+
+
+## Requirements
+- python version = 3.x.x (x > 0)
+- [pymc3](https://docs.pymc.io/) (bash command $<em>pip install pymc3 </em>)
+- [pandas](https://pypi.org/project/pandas/) (bash command $<em>pip install pandas </em>)
+- [Theano](https://pypi.org/project/Theano/) (bash command $<em>pip install Theano </em>)
+
+
+Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification.
