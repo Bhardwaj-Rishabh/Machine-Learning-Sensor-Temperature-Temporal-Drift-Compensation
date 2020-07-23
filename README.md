@@ -4,9 +4,9 @@
 - [pandas](https://pypi.org/project/pandas/) (bash command $<em>pip install pandas </em>)
 - [Theano](https://pypi.org/project/Theano/) (bash command $<em>pip install Theano </em>)
 
-__Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification.__
+<em> Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification. </em>
 
-If you find this link helpful, please cite our contribution
+If you find this link helpful, please cite our contributions:
 
 [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0026269219307207)
 ```
