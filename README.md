@@ -1,3 +1,8 @@
+## Requirements
+- python version = 3.x.x (x > 0)
+- [pymc3](https://docs.pymc.io/) (bash command $<em>pip install pymc3 </em>)
+- [pandas](https://pypi.org/project/pandas/) (bash command $<em>pip install pandas </em>)
+- [Theano](https://pypi.org/project/Theano/) (bash command $<em>pip install Theano </em>)
 
 __Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification.__
 
@@ -35,13 +40,4 @@ If you find this link helpful, please cite our contribution
   organization={IEEE}
 }
 [Paper link](https://ieeexplore.ieee.org/document/8069141)
-'''
-
-## Requirements
-- python version = 3.x.x (x > 0)
-- [pymc3](https://docs.pymc.io/) (bash command $<em>pip install pymc3 </em>)
-- [pandas](https://pypi.org/project/pandas/) (bash command $<em>pip install pandas </em>)
-- [Theano](https://pypi.org/project/Theano/) (bash command $<em>pip install Theano </em>)
-
-
-Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification.
+```
