@@ -1,6 +1,4 @@
-# ISBAYES
-
-Code for paper:
+# Code for paper
 
 @article{sinha2020temperature,
   title={Temperature and temporal drift compensation for Al2O3-gate ISFET-based pH sensor using machine learning techniques},
