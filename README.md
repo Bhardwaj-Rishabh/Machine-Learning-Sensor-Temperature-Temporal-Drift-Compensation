@@ -9,8 +9,29 @@
   year={2020},
   publisher={Elsevier}
 }
-
 [Paper link](https://www.sciencedirect.com/science/article/abs/pii/S0026269219307207)
+
+@article{bhardwaj2019modeling,
+  title={Modeling and simulation of temperature drift for ISFET-based pH sensor and its compensation through machine learning techniques},
+  author={Bhardwaj, Rishabh and Sinha, Soumendu and Sahu, Nishad and Majumder, Sagnik and Narang, Pratik and Mukhiya, Ravindra},
+  journal={International Journal of Circuit Theory and Applications},
+  volume={47},
+  number={6},
+  pages={954--970},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+[Paper link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.2618)
+
+@inproceedings{bhardwaj2017temperature,
+  title={Temperature compensation of ISFET based pH sensor using artificial neural networks},
+  author={Bhardwaj, Rishabh and Majumder, Sagnik and Ajmera, Pawan K and Sinha, Soumendu and Sharma, Rishi and Mukhiya, Ravindra and Narang, Pratik},
+  booktitle={2017 IEEE Regional Symposium on Micro and Nanoelectronics (RSM)},
+  pages={155--158},
+  year={2017},
+  organization={IEEE}
+}
+[Paper link](https://ieeexplore.ieee.org/document/8069141)
 
 
 ## Requirements
