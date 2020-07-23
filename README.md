@@ -1,5 +1,8 @@
-# Code for paper
 
+__Please feel free to contact rishabhbhardwaj15@gmail.com for any clarification.__
+
+If you find this link helpful, please cite our contribution
+```
 @article{sinha2020temperature,
   title={Temperature and temporal drift compensation for Al2O3-gate ISFET-based pH sensor using machine learning techniques},
   author={Sinha, Soumendu and Bhardwaj, Rishabh and Sahu, Nishad and Ahuja, Hitesh and Sharma, Rishi and Mukhiya, Ravindra},
@@ -32,7 +35,7 @@
   organization={IEEE}
 }
 [Paper link](https://ieeexplore.ieee.org/document/8069141)
-
+'''
 
 ## Requirements
 - python version = 3.x.x (x > 0)
