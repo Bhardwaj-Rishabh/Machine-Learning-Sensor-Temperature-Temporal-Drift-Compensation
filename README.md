@@ -21,6 +21,20 @@ If you find this link helpful, please cite our contributions:
 }
 ```
 
+[Paper link](https://link.springer.com/article/10.1007/s10825-019-01425-0)
+```
+@article{sinha2020modeling,
+  title={Modeling and simulation of temporal and temperature drift for the development of an accurate ISFET SPICE macromodel},
+  author={Sinha, Soumendu and Sahu, Nishad and Bhardwaj, Rishabh and Ahuja, Hitesh and Sharma, Rishi and Mukhiya, Ravindra and Shekhar, Chandra},
+  journal={Journal of Computational Electronics},
+  volume={19},
+  number={1},
+  pages={367--386},
+  year={2020},
+  publisher={Springer}
+}
+```
+
 [Paper link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.2618)
 ```
 @article{bhardwaj2019modeling,
